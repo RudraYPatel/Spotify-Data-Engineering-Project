@@ -1,0 +1,9 @@
+{
+	"name": "adfspotifydataproject",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b91f78cb-073e-4e67-ab4b-9967926c7ffe",
+		"tenantId": "bf9402dd-e66b-4166-ad60-19328440f134"
+	}
+}
